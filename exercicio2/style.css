@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+header {
+    background-color: chartreuse;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+    
+    
+}
+
+main {
+    background-color: lightseagreen;
+    height: 80vh;
+    
+}
+footer {
+    background-color: lightgray;
+    height: 10vh;
+    
+}
